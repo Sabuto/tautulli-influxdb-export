@@ -30,8 +30,8 @@
     "port": 8181,
     "tautulliapikey": "",
     "tautullibaseurl": "",
-    "influxdbhost": "a0d7b954_influxdb"
-    "influxdbport": 8086
+    "influxdbhost": "a0d7b954_influxdb",
+    "influxdbport": 8086,
     "influxdbuser": "tautulli",
     "influxdbpw": "",
     "influxdbdatabase": "tautulli",
