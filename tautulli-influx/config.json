@@ -26,8 +26,8 @@
   "homeassistant_api": false,
   "options": {
     "interval": 5,
-    "host": "a0d7b954_tautulli"
-    "port": 8181
+    "host": "a0d7b954_tautulli",
+    "port": 8181,
     "tautulliapikey": "",
     "tautullibaseurl": "",
     "influxdbhost": "a0d7b954_influxdb"
