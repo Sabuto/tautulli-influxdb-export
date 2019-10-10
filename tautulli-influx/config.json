@@ -4,7 +4,7 @@
   "slug": "tautulli-influx",
   "description": "Export Tautulli metrics directly to InfluxDb",
   "url": "https://github.com/Sabuto/tautulli-influxdb-export",
-  "ingress": flase,
+  "ingress": false,
   "startup": "services",
   "homeassistant": "0.92.0b2",
   "arch": [
